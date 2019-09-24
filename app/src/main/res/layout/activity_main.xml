@@ -26,6 +26,7 @@
         android:text="Este texto será modificado"
         android:width="200dp"
         android:height="60dp"
+        android:textSize="50sp"
          />
     <TextView
         android:orientation="vertical"
@@ -36,6 +37,7 @@
         android:background="#354399"
         android:height="80dp"
         android:width="300dp"
+        android:textSize="50sp"
         />
 
 </LinearLayout>
