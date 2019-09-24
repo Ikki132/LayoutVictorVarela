@@ -17,26 +17,31 @@
         />
 
     <Button
-        android:id="@+id/Etiqueta2"
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#299999"
         android:orientation="vertical"
-        android:text="Este texto será modificado"
-        android:width="200dp"
-        android:height="60dp"
-        android:textSize="50sp"
+        android:text="MATCH_PARENT"
+
          />
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:background="#937"
+        android:orientation="vertical"
+
+        >
     <Button
         android:orientation="vertical"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Este texto será modificado"
-        android:id="@+id/Etiqueta3"
+
         android:background="#354399"
-        android:height="80dp"
-        android:width="300dp"
-        android:textSize="50sp"
+
         />
+</LinearLayout>
 
 </LinearLayout>
