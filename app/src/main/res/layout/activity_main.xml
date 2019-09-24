@@ -8,10 +8,9 @@
 
     <Button
         android:orientation="vertical"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Este texto será modificado"
-        android:id="@+id/Etiqueta"
+        android:text="WRAP CONTENT"
         android:background="#999999"
         android:width="100dp"
         android:height="40dp"
