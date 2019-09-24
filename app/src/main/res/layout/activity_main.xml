@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:text="Este texto será modificado"
@@ -22,13 +22,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#299999"
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:text="Este texto será modificado"
         android:width="200dp"
         android:height="60dp"
          />
     <TextView
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Este texto será modificado"
